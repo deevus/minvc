@@ -1,4 +1,4 @@
-# minvc (minimal model view controller)
+# minvc (minimal model view controller) [![Build Status](https://travis-ci.org/deevus/minvc.svg)](https://travis-ci.org/deevus/minvc)
 
 ## Requirements
 
