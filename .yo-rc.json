@@ -1,0 +1,9 @@
+{
+  "generator-java": {
+    "title": "minVC",
+    "description": "",
+    "author": "Simon Hartcher",
+    "email": "simon@simonhartcher.com",
+    "namespace": "minVC"
+  }
+}
